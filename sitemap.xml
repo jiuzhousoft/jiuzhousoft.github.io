@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiuzhousoft.github.io/help/</loc>
+    
+    <lastmod>2018-09-28T05:44:21.740Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jiuzhousoft.github.io/list/</loc>
     
     <lastmod>2018-09-18T09:32:34.070Z</lastmod>
@@ -16,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://jiuzhousoft.github.io/hello-world/</loc>
+    <loc>https://jiuzhousoft.github.io/%E6%89%8B%E6%9C%BA%E4%BD%BF%E7%94%A8%E5%8A%A8%E6%80%81IP%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2018-09-18T05:13:09.970Z</lastmod>
     
