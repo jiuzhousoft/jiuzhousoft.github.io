@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiuzhousoft.github.io/iso/</loc>
+    
+    <lastmod>2018-10-18T03:33:13.778Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiuzhousoft.github.io/help/</loc>
+    
+    <lastmod>2018-10-09T12:41:06.413Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jiuzhousoft.github.io/20181009/</loc>
     
     <lastmod>2018-10-09T05:28:30.579Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>https://jiuzhousoft.github.io/freecard/</loc>
     
     <lastmod>2018-09-28T06:21:32.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jiuzhousoft.github.io/help/</loc>
-    
-    <lastmod>2018-09-28T05:44:21.740Z</lastmod>
     
   </url>
   
